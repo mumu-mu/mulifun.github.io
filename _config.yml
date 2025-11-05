@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "王骞"
+title                    : "穆丽富"
 description              : "多模态大模型、视觉Token压缩、视觉编码器"
-repository               : "https://qianwangn.github.io/"
+repository               : "https://lifumun.github.io/"
 google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "王骞"
+  name             : "穆丽富"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "北京大学"
+  bio              : "天津大学"
   location         : "北京"
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 
   googlescholar    : ""
-  email            : "adamqian@pku.edu.cn"
+  email            : "mulifu@tju.edu.cn"
   researchgate     : ""
   uri              : 
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "qianwangn"
+  github           : "mulifun"
   google_plus      :
   keybase          :
   instagram        :

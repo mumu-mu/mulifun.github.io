@@ -17,15 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我硕士毕业于北京大学软件工程专业。目前在理想汽车担任大模型研究员。
+硕士毕业于天津大学信息与工程专业。目前在理想汽车担任大模型研究员。
  <!-- <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。 -->
 
 我的研究领域包括：
 - 多模态大模型
 - 视觉Token压缩
-- VLA
+- 视觉编码器
 - 目标检测
-- 分割
 - 手势识别
   
 
@@ -33,8 +32,8 @@ redirect_from:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2016.06 - 2019.07*, <a href="https://www.pku.edu.cn/"><img class="jpg" src="/images/pku.jpg" width="23pt"></a> 北京大学 软件与微电子学院, 北京, 硕士 
-- *2012.09 - 2016.06*, <a href="http://www.hzic.edu.cn"><img class="jpg" src="/images/zjgsu.jpg" width="20pt"></a> 浙江工商大学 计算机与信息工程学院, 浙江杭州, 本科
+- *2019.06 - 2022.07*,  width="23pt"></a> 天津大学  天津, 硕士 
+- *2015.09 - 2019.06*,  width="20pt"></a> 燕山大学 河北秦皇岛, 本科
  
 <span class='anchor' id='-lwzl'></span>
 
@@ -167,6 +166,4 @@ redirect_from:
 <span class='anchor' id='-gzsx'></span>
 
 # 💻 工作实习
-- *2019.07 - 2020.06*, DeepMotion, 自动驾驶类算法研究
-- *2020.06 - 2022.10*, 锋物科技，智慧社区
-- *2022.10 - 至今*, 理想汽车-基座模型，多模态大模型、VLA等算法研究
+- *2022.3 - 至今*, 理想汽车-基座模型，多模态大模型、VLA等算法研究
